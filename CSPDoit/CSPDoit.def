@@ -1,0 +1,8 @@
+; CSPDoit.def : Declares the module parameters for the DLL.
+
+LIBRARY      "CSPDoit"
+
+EXPORTS
+    ; Explicit exports can go here
+	fnGenP10BySoft
+	fnSaveRSACertBySoft

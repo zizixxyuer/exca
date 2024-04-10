@@ -1,0 +1,8 @@
+; SKFDoit.def : Declares the module parameters for the DLL.
+
+LIBRARY      "SKFDoit"
+
+EXPORTS
+    ; Explicit exports can go here
+	fnGenP10SM2BySoft
+	fnSaveSM2CertBySoft

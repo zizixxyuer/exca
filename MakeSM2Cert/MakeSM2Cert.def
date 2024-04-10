@@ -1,0 +1,7 @@
+; MakeSM2Cert.def : Declares the module parameters for the DLL.
+
+LIBRARY      "MakeSM2Cert"
+
+EXPORTS
+    ; Explicit exports can go here
+	fnMakeSM2CertByP10
